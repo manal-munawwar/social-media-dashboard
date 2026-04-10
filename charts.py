@@ -33,7 +33,7 @@ def engagement_timeline(monthly_df):
     fig = px.line(
         monthly_df,
         x="month",
-        y="avg_engagement",
+        y="engagement_rate",
         color="platform",
         title="Monthly engagement rate by platform",
     )
