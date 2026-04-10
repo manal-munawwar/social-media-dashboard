@@ -22,20 +22,21 @@ LAYOUT_BASE = dict(
 
 
 def engagement_timeline(monthly_df):
+    import plotly.express as px
+    import plotly.graph_objects as go
+
+    # Prevent crash if data is empty
+    if monthly_df.empty:
+        return go.Figure()
+
     fig = px.line(
         monthly_df,
         x="month",
         y="avg_engagement",
         color="platform",
-        color_discrete_map=PLATFORM_COLORS,
-        markers=True,
-        labels={"avg_engagement": "Avg engagement rate (%)", "month": "Month", "platform": "Platform"},
         title="Monthly engagement rate by platform",
     )
-    fig.update_traces(line_width=2.5, marker_size=7)
-    fig.update_layout(**LAYOUT_BASE)
-    fig.update_yaxes(ticksuffix="%", gridcolor="#F3F4F6")
-    fig.update_xaxes(gridcolor="#F3F4F6")
+
     return fig
 
 
