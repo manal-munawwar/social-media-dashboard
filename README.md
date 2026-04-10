@@ -72,6 +72,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 The dataset is generated synthetically on first run (`data/posts.csv`).
+```
 
 ## 📂 Project Structure
 
@@ -86,5 +87,8 @@ social-media-dashboard/
 └── README.md
 
 ---
-Built by **Manal Munawwar**  
+---
+### 👤 Author
+
+**Manal Munawwar**  
 🔗 [LinkedIn](https://www.linkedin.com/in/manal-munawwar-9122a8269/)
