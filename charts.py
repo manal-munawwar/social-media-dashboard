@@ -25,6 +25,7 @@ def engagement_timeline(monthly_df):
     import plotly.express as px
     import plotly.graph_objects as go
 
+    print(monthly_df.columns)  # Debug: check column names
     # Prevent crash if data is empty
     if monthly_df.empty:
         return go.Figure()
