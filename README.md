@@ -76,6 +76,7 @@ The dataset is generated synthetically on first run (`data/posts.csv`).
 
 ## 📂 Project Structure
 
+```
 social-media-dashboard/
 ├── app.py # Main Streamlit dashboard
 ├── data_generator.py # Synthetic dataset (500 posts, 12 months)
@@ -85,8 +86,8 @@ social-media-dashboard/
 │ └── posts.csv # Auto-generated dataset
 ├── requirements.txt
 └── README.md
+```
 
----
 ---
 ### 👤 Author
 
