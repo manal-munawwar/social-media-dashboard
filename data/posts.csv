@@ -1,0 +1,501 @@
+date,platform,content_type,reach,likes,comments,shares,saves,engagement_rate,day_of_week,hour,month,month_num
+2024-01-01,Instagram,Influencer collab,12032,737,60,54,128,7.07,Monday,12,Jan,1
+2024-01-02,Twitter,Product showcase,1427,62,4,2,6,4.77,Tuesday,12,Jan,1
+2024-01-02,Instagram,Product showcase,3996,162,13,9,12,4.6,Tuesday,9,Jan,1
+2024-01-02,TikTok,Campaign launch,92608,2792,128,69,512,3.23,Tuesday,18,Jan,1
+2024-01-04,TikTok,Influencer collab,23623,1789,158,58,275,8.49,Thursday,13,Jan,1
+2024-01-04,Twitter,Campaign launch,4254,277,23,11,37,7.31,Thursday,11,Jan,1
+2024-01-05,TikTok,Campaign launch,31077,1159,88,83,214,4.28,Friday,14,Jan,1
+2024-01-05,Instagram,Campaign launch,4766,266,19,5,16,6.08,Friday,17,Jan,1
+2024-01-06,Instagram,Campaign launch,29162,1847,173,61,317,7.14,Saturday,12,Jan,1
+2024-01-09,Instagram,Behind the scenes,5301,273,19,14,33,5.77,Tuesday,12,Jan,1
+2024-01-09,TikTok,Brand story,66215,2463,254,122,366,4.29,Tuesday,13,Jan,1
+2024-01-10,TikTok,Product showcase,30004,968,69,44,131,3.6,Wednesday,8,Jan,1
+2024-01-13,Twitter,Influencer collab,4415,440,49,21,28,11.55,Saturday,14,Jan,1
+2024-01-13,TikTok,Campaign launch,17826,613,56,42,67,3.99,Saturday,10,Jan,1
+2024-01-14,Twitter,Brand story,3539,217,20,6,24,6.87,Sunday,16,Jan,1
+2024-01-15,Twitter,Behind the scenes,3088,125,13,7,6,4.7,Monday,13,Jan,1
+2024-01-15,TikTok,Brand story,34418,975,40,64,137,3.13,Monday,9,Jan,1
+2024-01-16,Instagram,Product showcase,7598,178,19,11,24,2.74,Tuesday,11,Jan,1
+2024-01-17,Twitter,Product showcase,2599,10,1,0,1,0.42,Wednesday,13,Jan,1
+2024-01-18,Twitter,Influencer collab,3092,183,10,9,24,6.53,Thursday,10,Jan,1
+2024-01-20,Instagram,Brand story,5488,218,10,11,15,4.35,Saturday,11,Jan,1
+2024-01-21,TikTok,Brand story,28109,2124,173,50,290,8.35,Sunday,9,Jan,1
+2024-01-21,TikTok,Product showcase,52899,467,48,31,79,1.03,Sunday,13,Jan,1
+2024-01-22,TikTok,Product showcase,36471,1381,117,95,225,4.37,Monday,17,Jan,1
+2024-01-22,Instagram,Behind the scenes,5941,244,15,8,27,4.49,Monday,17,Jan,1
+2024-01-23,Instagram,Campaign launch,3579,148,12,7,15,4.67,Tuesday,10,Jan,1
+2024-01-26,Instagram,Campaign launch,10275,598,34,26,48,6.4,Friday,11,Jan,1
+2024-01-27,Twitter,Behind the scenes,3134,235,21,11,44,8.52,Saturday,17,Jan,1
+2024-01-28,Instagram,Product showcase,9006,447,28,33,60,5.64,Sunday,15,Jan,1
+2024-01-28,Twitter,Behind the scenes,2847,116,7,3,10,4.43,Sunday,15,Jan,1
+2024-01-29,TikTok,Campaign launch,31845,1231,75,80,231,4.35,Monday,15,Jan,1
+2024-02-02,Twitter,Behind the scenes,1179,45,4,3,6,4.41,Friday,11,Feb,2
+2024-02-02,Instagram,Behind the scenes,5316,274,20,10,17,5.72,Friday,9,Feb,2
+2024-02-04,Instagram,Campaign launch,4208,131,5,5,24,3.35,Sunday,11,Feb,2
+2024-02-04,TikTok,Brand story,26778,1639,103,82,218,6.81,Sunday,17,Feb,2
+2024-02-04,Twitter,Brand story,4100,193,11,13,13,5.29,Sunday,11,Feb,2
+2024-02-05,Instagram,Campaign launch,4555,177,12,5,26,4.26,Monday,15,Feb,2
+2024-02-05,Instagram,Brand story,5235,180,18,5,19,3.88,Monday,13,Feb,2
+2024-02-06,TikTok,Campaign launch,25473,978,52,67,113,4.31,Tuesday,14,Feb,2
+2024-02-06,Instagram,Product showcase,10501,445,32,23,49,4.76,Tuesday,15,Feb,2
+2024-02-07,Instagram,Brand story,20687,1067,72,83,66,5.91,Wednesday,13,Feb,2
+2024-02-08,TikTok,Brand story,34568,1608,98,97,186,5.22,Thursday,10,Feb,2
+2024-02-08,Instagram,Brand story,3675,117,11,2,13,3.54,Thursday,10,Feb,2
+2024-02-08,TikTok,Brand story,35393,1094,111,57,217,3.57,Thursday,17,Feb,2
+2024-02-10,Twitter,Behind the scenes,4849,254,23,10,14,5.92,Saturday,19,Feb,2
+2024-02-10,TikTok,Brand story,31294,1327,99,48,101,4.71,Saturday,11,Feb,2
+2024-02-11,TikTok,Brand story,23111,875,92,25,72,4.29,Sunday,11,Feb,2
+2024-02-13,Instagram,Product showcase,4193,65,2,3,4,1.67,Tuesday,13,Feb,2
+2024-02-13,TikTok,Brand story,148099,8867,544,563,580,6.73,Tuesday,17,Feb,2
+2024-02-14,Instagram,Behind the scenes,14256,618,56,19,32,4.86,Wednesday,10,Feb,2
+2024-02-15,TikTok,Behind the scenes,9566,564,28,39,35,6.6,Thursday,11,Feb,2
+2024-02-16,Twitter,Campaign launch,4190,198,19,13,21,5.49,Friday,10,Feb,2
+2024-02-16,Instagram,Influencer collab,9058,441,28,28,49,5.49,Friday,11,Feb,2
+2024-02-17,Twitter,Behind the scenes,1876,111,10,6,18,6.77,Saturday,15,Feb,2
+2024-02-17,Instagram,Influencer collab,6793,457,41,24,61,7.68,Saturday,11,Feb,2
+2024-02-18,TikTok,Brand story,16383,554,48,21,67,3.8,Sunday,12,Feb,2
+2024-02-18,TikTok,Campaign launch,33321,1204,53,36,181,3.88,Sunday,16,Feb,2
+2024-02-19,Instagram,Behind the scenes,17633,1118,98,40,193,7.12,Monday,14,Feb,2
+2024-02-20,Instagram,Product showcase,3860,254,17,5,44,7.15,Tuesday,10,Feb,2
+2024-02-20,TikTok,Product showcase,18441,219,20,9,12,1.34,Tuesday,14,Feb,2
+2024-02-20,Instagram,Product showcase,10961,130,9,8,11,1.34,Tuesday,10,Feb,2
+2024-02-21,TikTok,Behind the scenes,16425,799,92,53,99,5.75,Wednesday,11,Feb,2
+2024-02-21,Instagram,Campaign launch,8697,408,40,9,40,5.25,Wednesday,14,Feb,2
+2024-02-22,Twitter,Behind the scenes,1466,39,4,1,2,3.0,Thursday,10,Feb,2
+2024-02-22,Instagram,Brand story,26588,990,97,48,152,4.27,Thursday,18,Feb,2
+2024-02-22,TikTok,Brand story,31630,1302,68,26,85,4.41,Thursday,12,Feb,2
+2024-02-22,Instagram,Influencer collab,10128,516,31,27,41,5.67,Thursday,16,Feb,2
+2024-02-23,TikTok,Behind the scenes,28146,1491,85,67,249,5.84,Friday,20,Feb,2
+2024-02-23,Instagram,Product showcase,7852,400,39,28,79,5.95,Friday,18,Feb,2
+2024-02-23,Instagram,Behind the scenes,2677,154,14,11,10,6.69,Friday,12,Feb,2
+2024-02-23,TikTok,Influencer collab,20028,993,115,47,197,5.77,Friday,20,Feb,2
+2024-02-23,TikTok,Product showcase,15728,353,34,14,25,2.55,Friday,10,Feb,2
+2024-02-24,TikTok,Behind the scenes,14777,907,43,34,180,6.66,Saturday,11,Feb,2
+2024-02-27,TikTok,Behind the scenes,109705,4125,305,111,576,4.14,Tuesday,11,Feb,2
+2024-02-27,TikTok,Campaign launch,26365,1286,153,39,169,5.61,Tuesday,11,Feb,2
+2024-02-27,Twitter,Influencer collab,1665,52,5,2,4,3.54,Tuesday,16,Feb,2
+2024-02-27,TikTok,Behind the scenes,19765,1071,115,74,65,6.37,Tuesday,11,Feb,2
+2024-02-28,Twitter,Campaign launch,2956,111,7,3,19,4.09,Wednesday,12,Feb,2
+2024-02-29,Instagram,Behind the scenes,30357,2138,120,86,251,7.72,Thursday,15,Feb,2
+2024-02-29,Instagram,Influencer collab,7809,374,22,20,40,5.33,Thursday,15,Feb,2
+2024-03-02,Twitter,Brand story,1194,40,1,0,3,3.43,Saturday,9,Mar,3
+2024-03-02,Instagram,Brand story,13469,726,59,20,68,5.98,Saturday,16,Mar,3
+2024-03-03,TikTok,Behind the scenes,28943,1474,116,63,154,5.71,Sunday,13,Mar,3
+2024-03-03,Instagram,Product showcase,10865,182,15,4,6,1.85,Sunday,15,Mar,3
+2024-03-03,Instagram,Campaign launch,9993,482,28,14,50,5.24,Sunday,17,Mar,3
+2024-03-05,Instagram,Behind the scenes,25583,1521,65,34,61,6.33,Tuesday,15,Mar,3
+2024-03-06,Twitter,Product showcase,4121,82,4,1,6,2.11,Wednesday,16,Mar,3
+2024-03-08,TikTok,Brand story,17318,732,43,33,97,4.67,Friday,11,Mar,3
+2024-03-09,Twitter,Product showcase,4971,144,7,2,17,3.08,Saturday,14,Mar,3
+2024-03-09,TikTok,Campaign launch,43416,1593,61,23,172,3.86,Saturday,12,Mar,3
+2024-03-12,TikTok,Campaign launch,19859,1460,114,67,77,8.26,Tuesday,12,Mar,3
+2024-03-15,TikTok,Influencer collab,67881,3981,305,196,313,6.6,Friday,7,Mar,3
+2024-03-16,Instagram,Brand story,7891,219,14,7,11,3.04,Saturday,14,Mar,3
+2024-03-21,Instagram,Campaign launch,9945,130,10,5,4,1.46,Thursday,13,Mar,3
+2024-03-21,TikTok,Brand story,68786,1958,67,106,162,3.1,Thursday,9,Mar,3
+2024-03-21,Instagram,Product showcase,21186,488,14,14,30,2.44,Thursday,12,Mar,3
+2024-03-26,Instagram,Campaign launch,15552,957,40,30,34,6.6,Tuesday,15,Mar,3
+2024-03-26,Twitter,Influencer collab,12362,735,32,28,57,6.43,Tuesday,13,Mar,3
+2024-03-28,Twitter,Product showcase,2665,130,10,7,9,5.52,Thursday,15,Mar,3
+2024-03-29,TikTok,Behind the scenes,59329,1510,94,32,108,2.76,Friday,16,Mar,3
+2024-03-29,Twitter,Brand story,3123,208,10,6,21,7.17,Friday,11,Mar,3
+2024-04-01,Twitter,Behind the scenes,2118,122,9,3,18,6.33,Monday,8,Apr,4
+2024-04-01,TikTok,Campaign launch,33736,1413,85,46,190,4.58,Monday,10,Apr,4
+2024-04-01,Instagram,Behind the scenes,8306,401,34,30,60,5.6,Monday,12,Apr,4
+2024-04-03,Instagram,Product showcase,7051,472,36,18,33,7.46,Wednesday,19,Apr,4
+2024-04-04,TikTok,Product showcase,19215,613,61,16,113,3.59,Thursday,12,Apr,4
+2024-04-05,Instagram,Product showcase,6158,294,34,7,32,5.44,Friday,16,Apr,4
+2024-04-05,Twitter,Behind the scenes,3935,249,20,9,37,7.06,Friday,15,Apr,4
+2024-04-05,TikTok,Campaign launch,9847,565,38,24,77,6.37,Friday,7,Apr,4
+2024-04-05,TikTok,Behind the scenes,33805,2404,102,96,401,7.7,Friday,15,Apr,4
+2024-04-06,Instagram,Product showcase,11134,455,22,13,54,4.4,Saturday,15,Apr,4
+2024-04-06,Twitter,Behind the scenes,1913,166,15,9,12,9.93,Saturday,18,Apr,4
+2024-04-07,TikTok,Brand story,9648,534,28,22,73,6.05,Sunday,10,Apr,4
+2024-04-08,Instagram,Influencer collab,5626,401,44,27,23,8.39,Monday,11,Apr,4
+2024-04-08,TikTok,Influencer collab,29356,929,72,51,136,3.58,Monday,17,Apr,4
+2024-04-08,TikTok,Brand story,40472,2506,123,186,148,6.96,Monday,12,Apr,4
+2024-04-08,Instagram,Behind the scenes,16106,648,56,49,69,4.68,Monday,8,Apr,4
+2024-04-08,TikTok,Behind the scenes,52409,1941,108,81,272,4.06,Monday,10,Apr,4
+2024-04-08,Instagram,Product showcase,4057,135,12,5,12,3.75,Monday,16,Apr,4
+2024-04-09,Twitter,Behind the scenes,1327,58,2,2,6,4.67,Tuesday,8,Apr,4
+2024-04-09,Instagram,Campaign launch,8741,293,26,10,23,3.76,Tuesday,13,Apr,4
+2024-04-09,Instagram,Behind the scenes,4909,336,20,11,44,7.48,Tuesday,14,Apr,4
+2024-04-10,TikTok,Product showcase,7712,253,26,12,38,3.77,Wednesday,10,Apr,4
+2024-04-10,Instagram,Behind the scenes,5310,352,40,27,18,7.89,Wednesday,12,Apr,4
+2024-04-10,TikTok,Behind the scenes,52058,2581,159,155,242,5.56,Wednesday,17,Apr,4
+2024-04-12,Twitter,Campaign launch,753,41,2,1,2,5.84,Friday,13,Apr,4
+2024-04-12,TikTok,Brand story,38225,1570,171,51,182,4.69,Friday,14,Apr,4
+2024-04-12,TikTok,Campaign launch,33572,1644,98,131,269,5.58,Friday,11,Apr,4
+2024-04-13,TikTok,Behind the scenes,4418,284,17,10,36,7.04,Saturday,11,Apr,4
+2024-04-13,Instagram,Behind the scenes,5806,323,21,19,22,6.25,Saturday,10,Apr,4
+2024-04-15,TikTok,Influencer collab,28264,1829,116,70,172,7.13,Monday,15,Apr,4
+2024-04-15,Instagram,Influencer collab,18648,967,41,34,154,5.59,Monday,17,Apr,4
+2024-04-16,Twitter,Brand story,4319,252,15,8,32,6.37,Tuesday,11,Apr,4
+2024-04-17,TikTok,Product showcase,32733,729,55,36,92,2.51,Wednesday,13,Apr,4
+2024-04-17,Twitter,Brand story,6046,97,4,3,12,1.72,Wednesday,13,Apr,4
+2024-04-21,Instagram,Campaign launch,5220,255,27,5,20,5.5,Sunday,13,Apr,4
+2024-04-21,Instagram,Product showcase,5003,76,7,2,15,1.7,Sunday,7,Apr,4
+2024-04-22,Instagram,Product showcase,8288,230,25,13,21,3.23,Monday,12,Apr,4
+2024-04-22,Instagram,Campaign launch,9593,416,32,22,41,4.9,Monday,11,Apr,4
+2024-04-22,TikTok,Brand story,17431,622,40,43,101,4.04,Monday,11,Apr,4
+2024-04-22,TikTok,Behind the scenes,24702,1376,115,78,244,6.35,Monday,10,Apr,4
+2024-04-22,Instagram,Campaign launch,2075,105,8,2,8,5.54,Monday,17,Apr,4
+2024-04-23,Twitter,Brand story,3117,153,14,6,12,5.55,Tuesday,10,Apr,4
+2024-04-25,Twitter,Campaign launch,3713,186,9,11,21,5.55,Thursday,15,Apr,4
+2024-04-25,TikTok,Behind the scenes,35824,1522,169,78,177,4.94,Thursday,18,Apr,4
+2024-04-25,Instagram,Influencer collab,14371,768,81,58,105,6.31,Thursday,16,Apr,4
+2024-04-26,Instagram,Brand story,8444,314,30,12,19,4.22,Friday,12,Apr,4
+2024-04-27,Twitter,Campaign launch,1961,54,5,3,4,3.16,Saturday,14,Apr,4
+2024-04-29,Instagram,Product showcase,5447,73,6,4,4,1.52,Monday,10,Apr,4
+2024-04-29,TikTok,Product showcase,10564,306,25,19,37,3.31,Monday,16,Apr,4
+2024-04-30,Twitter,Influencer collab,4209,194,11,4,38,4.97,Tuesday,17,Apr,4
+2024-05-01,TikTok,Behind the scenes,13469,1185,106,25,86,9.77,Wednesday,7,May,5
+2024-05-01,TikTok,Brand story,11269,374,25,24,67,3.75,Wednesday,11,May,5
+2024-05-02,Instagram,Influencer collab,2540,176,17,6,15,7.83,Thursday,18,May,5
+2024-05-03,Instagram,Brand story,9141,299,24,8,46,3.62,Friday,9,May,5
+2024-05-03,Instagram,Behind the scenes,13905,1053,106,70,147,8.84,Friday,13,May,5
+2024-05-04,Instagram,Brand story,12638,555,62,35,106,5.16,Saturday,11,May,5
+2024-05-05,TikTok,Campaign launch,29618,690,63,14,135,2.59,Sunday,18,May,5
+2024-05-05,Twitter,Behind the scenes,4237,249,18,9,15,6.51,Sunday,16,May,5
+2024-05-06,Twitter,Brand story,3098,59,6,4,3,2.23,Monday,14,May,5
+2024-05-06,TikTok,Campaign launch,15446,520,45,15,87,3.76,Monday,13,May,5
+2024-05-07,Instagram,Behind the scenes,17589,1695,104,132,288,10.98,Tuesday,18,May,5
+2024-05-07,TikTok,Product showcase,26489,787,82,42,109,3.44,Tuesday,14,May,5
+2024-05-07,Instagram,Brand story,10796,429,41,10,50,4.45,Tuesday,20,May,5
+2024-05-07,TikTok,Product showcase,15735,530,42,24,57,3.79,Tuesday,15,May,5
+2024-05-08,Instagram,Campaign launch,6781,247,18,11,16,4.07,Wednesday,8,May,5
+2024-05-08,Instagram,Behind the scenes,6716,367,20,18,36,6.03,Wednesday,12,May,5
+2024-05-08,TikTok,Campaign launch,54497,2662,304,80,529,5.59,Wednesday,15,May,5
+2024-05-09,Instagram,Behind the scenes,3189,154,8,6,10,5.27,Thursday,14,May,5
+2024-05-09,Instagram,Campaign launch,6874,201,17,15,11,3.39,Thursday,14,May,5
+2024-05-10,Instagram,Product showcase,7931,214,17,8,11,3.01,Friday,10,May,5
+2024-05-10,TikTok,Product showcase,24968,668,40,35,98,2.98,Friday,7,May,5
+2024-05-10,TikTok,Behind the scenes,51809,3773,225,125,486,7.96,Friday,15,May,5
+2024-05-10,Twitter,Influencer collab,2848,163,12,5,32,6.32,Friday,12,May,5
+2024-05-13,Twitter,Product showcase,2291,59,2,2,10,2.75,Monday,13,May,5
+2024-05-14,TikTok,Brand story,16114,529,24,31,78,3.62,Tuesday,9,May,5
+2024-05-14,Instagram,Campaign launch,6842,400,18,10,29,6.26,Tuesday,16,May,5
+2024-05-14,Instagram,Brand story,12985,392,29,12,58,3.33,Tuesday,17,May,5
+2024-05-15,TikTok,Influencer collab,9286,660,61,38,79,8.17,Wednesday,14,May,5
+2024-05-16,Instagram,Influencer collab,12333,385,42,16,66,3.59,Thursday,19,May,5
+2024-05-18,TikTok,Behind the scenes,22756,1312,63,69,81,6.35,Saturday,10,May,5
+2024-05-19,Instagram,Product showcase,6468,191,15,12,34,3.37,Sunday,20,May,5
+2024-05-21,Instagram,Behind the scenes,3186,242,18,15,14,8.63,Tuesday,12,May,5
+2024-05-22,Instagram,Influencer collab,46622,2551,221,122,163,6.21,Wednesday,17,May,5
+2024-05-22,TikTok,Influencer collab,43221,1481,62,114,201,3.83,Wednesday,16,May,5
+2024-05-23,TikTok,Influencer collab,19586,1071,108,82,69,6.44,Thursday,18,May,5
+2024-05-23,Instagram,Campaign launch,19159,1009,92,22,133,5.86,Thursday,15,May,5
+2024-05-23,Instagram,Influencer collab,4472,218,14,5,31,5.3,Thursday,16,May,5
+2024-05-23,Twitter,Product showcase,1825,70,4,2,5,4.16,Thursday,17,May,5
+2024-05-24,TikTok,Influencer collab,40389,2025,172,113,173,5.72,Friday,12,May,5
+2024-05-26,Twitter,Influencer collab,1608,102,4,4,10,6.84,Sunday,13,May,5
+2024-05-26,Twitter,Product showcase,3541,187,16,4,20,5.85,Sunday,10,May,5
+2024-05-26,TikTok,Behind the scenes,60013,2972,252,136,175,5.6,Sunday,9,May,5
+2024-05-26,Instagram,Behind the scenes,8696,693,61,45,107,9.19,Sunday,11,May,5
+2024-05-26,Twitter,Product showcase,4058,74,7,3,9,2.07,Sunday,10,May,5
+2024-05-27,Instagram,Campaign launch,16496,637,53,34,63,4.39,Monday,14,May,5
+2024-05-27,TikTok,Brand story,17663,982,57,47,95,6.15,Monday,9,May,5
+2024-05-29,TikTok,Behind the scenes,24555,1769,211,122,311,8.56,Wednesday,9,May,5
+2024-05-29,Instagram,Brand story,3078,179,11,4,19,6.3,Wednesday,12,May,5
+2024-05-30,TikTok,Behind the scenes,33903,1054,97,73,81,3.61,Thursday,17,May,5
+2024-05-30,TikTok,Brand story,39141,1407,127,102,274,4.18,Thursday,16,May,5
+2024-05-31,TikTok,Product showcase,9324,262,21,15,18,3.2,Friday,15,May,5
+2024-05-31,Twitter,Brand story,3847,136,5,10,26,3.93,Friday,12,May,5
+2024-05-31,Instagram,Influencer collab,5129,333,14,7,19,6.9,Friday,18,May,5
+2024-06-01,Instagram,Campaign launch,8526,368,23,20,40,4.82,Saturday,12,Jun,6
+2024-06-01,Instagram,Campaign launch,4754,171,9,9,11,3.98,Saturday,11,Jun,6
+2024-06-02,Instagram,Brand story,9824,268,21,5,25,2.99,Sunday,10,Jun,6
+2024-06-03,Instagram,Brand story,3254,153,7,7,18,5.13,Monday,16,Jun,6
+2024-06-05,Twitter,Behind the scenes,4008,238,14,9,13,6.51,Wednesday,12,Jun,6
+2024-06-06,Instagram,Campaign launch,10078,625,30,18,90,6.68,Thursday,16,Jun,6
+2024-06-06,Instagram,Brand story,5770,294,19,11,48,5.62,Thursday,10,Jun,6
+2024-06-06,Instagram,Campaign launch,19893,714,63,47,57,4.14,Thursday,8,Jun,6
+2024-06-08,TikTok,Campaign launch,62548,2113,72,65,190,3.6,Saturday,10,Jun,6
+2024-06-08,Twitter,Campaign launch,4249,294,22,11,27,7.7,Saturday,10,Jun,6
+2024-06-08,Instagram,Influencer collab,24368,1306,74,82,75,6.0,Saturday,9,Jun,6
+2024-06-08,TikTok,Campaign launch,29398,1953,155,93,138,7.49,Saturday,15,Jun,6
+2024-06-09,Instagram,Brand story,4706,297,13,11,43,6.82,Sunday,8,Jun,6
+2024-06-09,Instagram,Product showcase,3045,116,10,5,13,4.3,Sunday,11,Jun,6
+2024-06-09,TikTok,Brand story,106900,3261,193,151,366,3.37,Sunday,9,Jun,6
+2024-06-09,Twitter,Product showcase,2382,128,4,2,10,5.63,Sunday,10,Jun,6
+2024-06-10,Instagram,Influencer collab,9058,381,13,17,21,4.54,Monday,10,Jun,6
+2024-06-11,Instagram,Brand story,2511,98,6,4,4,4.3,Tuesday,11,Jun,6
+2024-06-11,TikTok,Influencer collab,55690,2607,122,171,370,5.21,Tuesday,11,Jun,6
+2024-06-13,Instagram,Campaign launch,20812,1074,84,38,85,5.75,Thursday,14,Jun,6
+2024-06-15,Twitter,Behind the scenes,6516,386,37,22,30,6.83,Saturday,13,Jun,6
+2024-06-17,TikTok,Influencer collab,39597,3415,313,68,176,9.59,Monday,18,Jun,6
+2024-06-18,Instagram,Behind the scenes,31938,1815,114,33,133,6.14,Tuesday,11,Jun,6
+2024-06-18,Instagram,Brand story,4446,134,6,6,8,3.28,Tuesday,13,Jun,6
+2024-06-18,Instagram,Brand story,6814,184,17,12,16,3.13,Tuesday,15,Jun,6
+2024-06-18,Instagram,Behind the scenes,10246,454,18,16,48,4.76,Tuesday,12,Jun,6
+2024-06-19,Twitter,Influencer collab,2133,98,6,3,14,5.02,Wednesday,9,Jun,6
+2024-06-20,TikTok,Behind the scenes,13934,832,41,23,67,6.43,Thursday,11,Jun,6
+2024-06-20,Twitter,Brand story,5313,200,18,4,16,4.18,Thursday,11,Jun,6
+2024-06-20,TikTok,Product showcase,31610,1338,111,27,214,4.67,Thursday,10,Jun,6
+2024-06-20,TikTok,Behind the scenes,26785,1431,112,75,164,6.04,Thursday,12,Jun,6
+2024-06-21,Twitter,Campaign launch,4315,205,9,12,30,5.24,Friday,14,Jun,6
+2024-06-22,Instagram,Brand story,13190,150,6,7,16,1.24,Saturday,14,Jun,6
+2024-06-23,Twitter,Campaign launch,3550,192,8,5,24,5.77,Sunday,11,Jun,6
+2024-06-24,Instagram,Campaign launch,5964,238,13,8,12,4.34,Monday,11,Jun,6
+2024-06-24,Twitter,Product showcase,1986,51,5,3,8,2.97,Monday,9,Jun,6
+2024-06-27,Instagram,Campaign launch,5158,169,16,6,21,3.7,Thursday,16,Jun,6
+2024-06-28,Instagram,Influencer collab,5952,262,9,10,14,4.72,Friday,7,Jun,6
+2024-06-28,Instagram,Campaign launch,8826,284,20,16,19,3.63,Friday,13,Jun,6
+2024-06-28,TikTok,Product showcase,13808,572,49,10,73,4.57,Friday,19,Jun,6
+2024-06-29,Instagram,Campaign launch,12680,302,28,19,35,2.75,Saturday,11,Jun,6
+2024-07-02,TikTok,Campaign launch,20712,1176,95,45,150,6.35,Tuesday,12,Jul,7
+2024-07-03,Instagram,Behind the scenes,15016,921,40,33,98,6.62,Wednesday,10,Jul,7
+2024-07-04,Twitter,Behind the scenes,7430,688,64,29,75,10.51,Thursday,8,Jul,7
+2024-07-05,TikTok,Behind the scenes,22842,1083,64,32,128,5.16,Friday,20,Jul,7
+2024-07-05,TikTok,Campaign launch,57114,2119,134,141,294,4.19,Friday,10,Jul,7
+2024-07-05,TikTok,Product showcase,33031,820,60,53,91,2.82,Friday,9,Jul,7
+2024-07-06,TikTok,Influencer collab,42193,1971,151,100,135,5.27,Saturday,11,Jul,7
+2024-07-06,Instagram,Product showcase,8196,207,15,11,12,2.84,Saturday,18,Jul,7
+2024-07-06,Twitter,Influencer collab,2552,171,13,6,11,7.45,Saturday,14,Jul,7
+2024-07-07,Twitter,Brand story,1696,110,8,6,12,7.31,Sunday,8,Jul,7
+2024-07-07,Instagram,Behind the scenes,11654,862,67,26,97,8.19,Sunday,13,Jul,7
+2024-07-08,Instagram,Product showcase,8982,297,21,18,37,3.74,Monday,15,Jul,7
+2024-07-08,Twitter,Campaign launch,15212,969,73,37,84,7.09,Monday,10,Jul,7
+2024-07-08,Instagram,Campaign launch,16263,373,20,14,17,2.5,Monday,10,Jul,7
+2024-07-08,Instagram,Behind the scenes,8250,386,32,6,31,5.14,Monday,14,Jul,7
+2024-07-09,Instagram,Product showcase,7081,228,16,4,10,3.5,Tuesday,18,Jul,7
+2024-07-09,TikTok,Product showcase,43484,1281,96,48,93,3.28,Tuesday,8,Jul,7
+2024-07-10,Instagram,Brand story,5628,242,20,13,30,4.89,Wednesday,11,Jul,7
+2024-07-10,Instagram,Influencer collab,7100,484,38,31,70,7.79,Wednesday,12,Jul,7
+2024-07-10,Twitter,Behind the scenes,3544,102,8,2,15,3.16,Wednesday,13,Jul,7
+2024-07-12,TikTok,Product showcase,20658,152,13,6,17,0.83,Friday,17,Jul,7
+2024-07-13,TikTok,Behind the scenes,84546,4393,256,111,420,5.63,Saturday,9,Jul,7
+2024-07-14,Instagram,Behind the scenes,7350,496,17,8,62,7.09,Sunday,13,Jul,7
+2024-07-16,Twitter,Brand story,5067,162,12,4,18,3.51,Tuesday,8,Jul,7
+2024-07-16,Twitter,Behind the scenes,2035,92,4,6,11,5.01,Tuesday,13,Jul,7
+2024-07-16,Instagram,Campaign launch,8856,375,34,23,49,4.88,Tuesday,7,Jul,7
+2024-07-17,Instagram,Behind the scenes,8095,388,24,22,35,5.36,Wednesday,9,Jul,7
+2024-07-19,Instagram,Influencer collab,29070,1945,93,90,127,7.32,Friday,10,Jul,7
+2024-07-19,Instagram,Campaign launch,4545,133,10,7,21,3.3,Friday,16,Jul,7
+2024-07-20,Twitter,Campaign launch,2055,79,7,3,12,4.33,Saturday,10,Jul,7
+2024-07-21,Twitter,Product showcase,6445,268,8,5,27,4.36,Sunday,20,Jul,7
+2024-07-22,TikTok,Influencer collab,13906,1155,103,53,185,9.43,Monday,18,Jul,7
+2024-07-24,TikTok,Influencer collab,53052,3109,239,74,432,6.45,Wednesday,12,Jul,7
+2024-07-25,Twitter,Campaign launch,2586,132,12,7,10,5.84,Thursday,14,Jul,7
+2024-07-26,Twitter,Product showcase,1176,30,1,1,2,2.72,Friday,10,Jul,7
+2024-07-26,Instagram,Product showcase,11592,436,34,9,69,4.13,Friday,11,Jul,7
+2024-07-26,Instagram,Campaign launch,10245,624,23,17,68,6.48,Friday,9,Jul,7
+2024-07-31,Instagram,Campaign launch,16209,601,57,15,57,4.15,Wednesday,12,Jul,7
+2024-08-01,TikTok,Behind the scenes,15117,856,35,60,95,6.29,Thursday,17,Aug,8
+2024-08-02,Twitter,Behind the scenes,2911,157,13,11,11,6.22,Friday,12,Aug,8
+2024-08-02,TikTok,Behind the scenes,28384,744,48,52,103,2.97,Friday,10,Aug,8
+2024-08-02,TikTok,Brand story,23144,930,78,54,53,4.59,Friday,14,Aug,8
+2024-08-03,Instagram,Product showcase,9317,151,14,6,9,1.84,Saturday,12,Aug,8
+2024-08-04,Instagram,Product showcase,23288,695,39,28,99,3.27,Sunday,16,Aug,8
+2024-08-05,TikTok,Brand story,8813,579,31,25,105,7.21,Monday,12,Aug,8
+2024-08-05,Instagram,Behind the scenes,15753,913,83,43,164,6.6,Monday,10,Aug,8
+2024-08-05,Instagram,Influencer collab,11148,600,32,37,78,6.0,Monday,10,Aug,8
+2024-08-05,TikTok,Product showcase,54495,2060,203,72,347,4.28,Monday,18,Aug,8
+2024-08-07,Instagram,Campaign launch,4793,249,21,13,17,5.9,Wednesday,15,Aug,8
+2024-08-07,TikTok,Influencer collab,38234,2569,267,123,136,7.74,Wednesday,14,Aug,8
+2024-08-07,Instagram,Brand story,19042,749,81,53,145,4.64,Wednesday,13,Aug,8
+2024-08-09,Instagram,Product showcase,9076,97,10,7,11,1.26,Friday,12,Aug,8
+2024-08-09,Twitter,Brand story,2768,135,6,4,18,5.24,Friday,16,Aug,8
+2024-08-10,TikTok,Brand story,21840,640,37,15,92,3.17,Saturday,9,Aug,8
+2024-08-10,Instagram,Product showcase,13634,510,44,38,82,4.34,Saturday,10,Aug,8
+2024-08-11,Instagram,Product showcase,12360,339,36,21,46,3.2,Sunday,16,Aug,8
+2024-08-12,Instagram,Campaign launch,12030,677,67,24,88,6.38,Monday,10,Aug,8
+2024-08-12,Twitter,Product showcase,2564,117,5,7,12,5.03,Monday,11,Aug,8
+2024-08-12,Twitter,Brand story,3680,144,10,6,9,4.35,Monday,14,Aug,8
+2024-08-13,Instagram,Product showcase,12774,376,36,12,25,3.32,Tuesday,7,Aug,8
+2024-08-14,Instagram,Brand story,4132,227,12,8,36,5.98,Wednesday,10,Aug,8
+2024-08-14,TikTok,Influencer collab,41559,2288,130,69,359,5.98,Wednesday,17,Aug,8
+2024-08-16,TikTok,Behind the scenes,21790,1167,87,38,219,5.93,Friday,12,Aug,8
+2024-08-17,Instagram,Brand story,6655,355,24,16,43,5.94,Saturday,9,Aug,8
+2024-08-18,Instagram,Campaign launch,14621,708,34,20,45,5.21,Sunday,16,Aug,8
+2024-08-18,TikTok,Influencer collab,30277,1612,182,50,213,6.09,Sunday,17,Aug,8
+2024-08-18,Instagram,Product showcase,5619,269,24,13,14,5.45,Sunday,18,Aug,8
+2024-08-18,TikTok,Product showcase,47961,2467,171,84,250,5.68,Sunday,18,Aug,8
+2024-08-20,Instagram,Campaign launch,13213,634,63,43,44,5.6,Tuesday,15,Aug,8
+2024-08-20,TikTok,Behind the scenes,9097,536,28,14,69,6.35,Tuesday,9,Aug,8
+2024-08-20,Instagram,Behind the scenes,3181,114,5,4,13,3.87,Tuesday,20,Aug,8
+2024-08-20,TikTok,Brand story,20837,1021,108,24,157,5.53,Tuesday,13,Aug,8
+2024-08-21,Instagram,Product showcase,4315,139,9,9,21,3.64,Wednesday,18,Aug,8
+2024-08-23,TikTok,Product showcase,12970,612,58,22,92,5.34,Friday,17,Aug,8
+2024-08-24,TikTok,Product showcase,14554,582,30,37,96,4.46,Saturday,19,Aug,8
+2024-08-24,TikTok,Behind the scenes,7087,315,35,23,22,5.26,Saturday,11,Aug,8
+2024-08-24,Instagram,Behind the scenes,11515,730,32,24,116,6.83,Saturday,16,Aug,8
+2024-08-25,Instagram,Influencer collab,5598,366,34,8,27,7.29,Sunday,15,Aug,8
+2024-08-25,Instagram,Behind the scenes,4620,306,20,24,42,7.58,Sunday,10,Aug,8
+2024-08-26,TikTok,Brand story,50077,2032,115,50,170,4.39,Monday,16,Aug,8
+2024-08-27,Instagram,Behind the scenes,7271,148,8,3,15,2.19,Tuesday,18,Aug,8
+2024-08-28,TikTok,Campaign launch,25139,2362,234,177,376,11.03,Wednesday,11,Aug,8
+2024-08-29,Instagram,Campaign launch,4954,248,18,6,24,5.49,Thursday,7,Aug,8
+2024-08-30,TikTok,Brand story,22657,848,76,56,57,4.33,Friday,8,Aug,8
+2024-08-31,Instagram,Campaign launch,8182,329,20,11,24,4.4,Saturday,13,Aug,8
+2024-09-02,Instagram,Behind the scenes,9383,516,26,36,38,6.16,Monday,19,Sep,9
+2024-09-02,Twitter,Behind the scenes,3555,235,21,9,35,7.45,Monday,14,Sep,9
+2024-09-03,Instagram,Product showcase,4479,98,9,2,7,2.43,Tuesday,16,Sep,9
+2024-09-03,Twitter,Campaign launch,1779,60,2,2,10,3.6,Tuesday,11,Sep,9
+2024-09-03,TikTok,Product showcase,52125,1192,95,90,183,2.64,Tuesday,11,Sep,9
+2024-09-06,TikTok,Campaign launch,43236,3211,253,73,446,8.18,Friday,7,Sep,9
+2024-09-06,Instagram,Product showcase,12429,390,26,10,20,3.43,Friday,15,Sep,9
+2024-09-08,Instagram,Campaign launch,15395,469,28,37,65,3.47,Sunday,15,Sep,9
+2024-09-08,TikTok,Behind the scenes,25973,2094,120,125,122,9.01,Sunday,13,Sep,9
+2024-09-08,Instagram,Campaign launch,3003,124,10,8,20,4.73,Sunday,15,Sep,9
+2024-09-08,Instagram,Influencer collab,23835,803,39,49,101,3.74,Sunday,12,Sep,9
+2024-09-09,Instagram,Product showcase,6942,258,23,12,44,4.22,Monday,11,Sep,9
+2024-09-09,TikTok,Brand story,46200,1784,133,85,153,4.33,Monday,13,Sep,9
+2024-09-10,Instagram,Brand story,5147,231,13,6,15,4.86,Tuesday,12,Sep,9
+2024-09-10,TikTok,Campaign launch,20491,776,83,28,116,4.33,Tuesday,10,Sep,9
+2024-09-10,Instagram,Brand story,11217,321,24,14,23,3.2,Tuesday,9,Sep,9
+2024-09-11,TikTok,Influencer collab,31721,2345,190,95,225,8.29,Wednesday,11,Sep,9
+2024-09-11,Twitter,Campaign launch,2500,86,7,3,13,3.84,Wednesday,14,Sep,9
+2024-09-12,Instagram,Campaign launch,6472,261,20,7,36,4.45,Thursday,10,Sep,9
+2024-09-13,TikTok,Influencer collab,30406,1436,106,103,193,5.41,Friday,15,Sep,9
+2024-09-13,TikTok,Influencer collab,23692,1125,50,37,174,5.12,Friday,10,Sep,9
+2024-09-14,TikTok,Behind the scenes,17083,1185,80,81,93,7.88,Saturday,14,Sep,9
+2024-09-15,Twitter,Product showcase,2867,21,1,0,1,0.77,Sunday,12,Sep,9
+2024-09-15,TikTok,Influencer collab,14276,1084,49,61,196,8.36,Sunday,12,Sep,9
+2024-09-16,TikTok,Brand story,13462,677,32,46,55,5.61,Monday,11,Sep,9
+2024-09-17,TikTok,Behind the scenes,12497,423,42,22,48,3.9,Tuesday,16,Sep,9
+2024-09-18,Instagram,Product showcase,4732,108,7,8,15,2.6,Wednesday,10,Sep,9
+2024-09-19,TikTok,Brand story,17860,877,77,34,88,5.53,Thursday,14,Sep,9
+2024-09-20,Twitter,Product showcase,5766,153,9,8,26,2.95,Friday,10,Sep,9
+2024-09-20,Instagram,Campaign launch,5807,148,11,3,24,2.79,Friday,17,Sep,9
+2024-09-20,TikTok,Product showcase,86074,3870,420,196,744,5.21,Friday,19,Sep,9
+2024-09-20,TikTok,Brand story,16145,843,58,42,49,5.84,Friday,10,Sep,9
+2024-09-21,Instagram,Influencer collab,23727,1202,81,58,161,5.65,Saturday,14,Sep,9
+2024-09-23,TikTok,Influencer collab,39240,2919,320,128,401,8.58,Monday,12,Sep,9
+2024-09-24,Instagram,Campaign launch,5230,374,32,28,68,8.3,Tuesday,18,Sep,9
+2024-09-24,TikTok,Product showcase,48070,1202,79,40,191,2.75,Tuesday,13,Sep,9
+2024-09-25,TikTok,Influencer collab,23709,1079,97,47,208,5.16,Wednesday,15,Sep,9
+2024-09-26,Instagram,Influencer collab,12571,886,53,59,133,7.94,Thursday,9,Sep,9
+2024-09-27,TikTok,Product showcase,18495,1006,89,52,152,6.2,Friday,14,Sep,9
+2024-09-27,TikTok,Campaign launch,13768,579,38,20,60,4.63,Friday,11,Sep,9
+2024-09-27,TikTok,Brand story,19626,228,21,17,36,1.36,Friday,13,Sep,9
+2024-09-27,TikTok,Brand story,32944,1752,113,128,191,6.05,Friday,9,Sep,9
+2024-09-28,Twitter,Behind the scenes,6588,276,21,5,31,4.58,Saturday,12,Sep,9
+2024-09-29,Instagram,Campaign launch,5427,279,26,11,45,5.82,Sunday,9,Sep,9
+2024-09-30,TikTok,Product showcase,36337,959,47,27,115,2.84,Monday,10,Sep,9
+2024-10-01,Twitter,Product showcase,1467,79,6,2,13,5.93,Tuesday,18,Oct,10
+2024-10-03,TikTok,Brand story,26153,1200,48,68,217,5.03,Thursday,13,Oct,10
+2024-10-03,Instagram,Influencer collab,7211,497,35,21,91,7.67,Thursday,17,Oct,10
+2024-10-03,Instagram,Brand story,12139,655,29,38,61,5.95,Thursday,11,Oct,10
+2024-10-04,Twitter,Campaign launch,1721,123,14,4,22,8.19,Friday,12,Oct,10
+2024-10-05,Twitter,Influencer collab,2283,164,9,7,16,7.88,Saturday,17,Oct,10
+2024-10-06,Twitter,Product showcase,2816,145,16,10,12,6.07,Sunday,11,Oct,10
+2024-10-06,TikTok,Behind the scenes,39754,1213,56,92,224,3.42,Sunday,10,Oct,10
+2024-10-06,Twitter,Product showcase,4885,166,18,3,28,3.83,Sunday,14,Oct,10
+2024-10-06,Instagram,Influencer collab,9301,471,26,20,69,5.56,Sunday,10,Oct,10
+2024-10-06,Twitter,Influencer collab,659,39,1,0,5,6.07,Sunday,10,Oct,10
+2024-10-07,Instagram,Campaign launch,8861,402,26,25,69,5.11,Monday,15,Oct,10
+2024-10-09,Instagram,Influencer collab,3438,161,15,9,14,5.38,Wednesday,10,Oct,10
+2024-10-09,Twitter,Influencer collab,7097,534,49,18,40,8.47,Wednesday,11,Oct,10
+2024-10-09,Instagram,Influencer collab,6575,430,19,31,82,7.3,Wednesday,12,Oct,10
+2024-10-10,Instagram,Campaign launch,9158,298,23,12,47,3.64,Thursday,17,Oct,10
+2024-10-10,Twitter,Product showcase,3123,72,7,4,13,2.66,Thursday,10,Oct,10
+2024-10-10,Twitter,Behind the scenes,1730,88,8,6,13,5.9,Thursday,12,Oct,10
+2024-10-11,Instagram,Influencer collab,11421,398,36,8,79,3.87,Friday,11,Oct,10
+2024-10-12,Twitter,Campaign launch,1560,69,5,1,7,4.81,Saturday,16,Oct,10
+2024-10-12,Instagram,Campaign launch,16704,848,48,29,165,5.54,Saturday,15,Oct,10
+2024-10-14,Instagram,Campaign launch,7057,388,23,29,75,6.23,Monday,11,Oct,10
+2024-10-14,Twitter,Brand story,2400,71,5,3,10,3.29,Monday,18,Oct,10
+2024-10-15,Instagram,Campaign launch,3816,217,25,4,23,6.45,Tuesday,11,Oct,10
+2024-10-15,Instagram,Product showcase,9212,326,15,9,47,3.8,Tuesday,10,Oct,10
+2024-10-15,Instagram,Influencer collab,5984,388,37,24,40,7.5,Tuesday,15,Oct,10
+2024-10-16,TikTok,Campaign launch,19068,1021,122,44,112,6.23,Wednesday,11,Oct,10
+2024-10-16,Twitter,Brand story,6214,270,30,9,36,4.97,Wednesday,16,Oct,10
+2024-10-19,Twitter,Brand story,2567,51,2,3,3,2.18,Saturday,9,Oct,10
+2024-10-20,Instagram,Campaign launch,6775,390,26,29,34,6.57,Sunday,12,Oct,10
+2024-10-20,Twitter,Brand story,7443,302,15,21,42,4.54,Sunday,8,Oct,10
+2024-10-21,Twitter,Influencer collab,7530,471,32,19,67,6.93,Monday,12,Oct,10
+2024-10-22,TikTok,Behind the scenes,43754,1594,174,67,217,4.19,Tuesday,11,Oct,10
+2024-10-24,Instagram,Product showcase,5253,212,17,15,22,4.64,Thursday,11,Oct,10
+2024-10-25,TikTok,Campaign launch,29809,1931,222,50,162,7.39,Friday,11,Oct,10
+2024-10-27,Instagram,Brand story,3770,137,11,3,24,4.01,Sunday,14,Oct,10
+2024-10-28,TikTok,Product showcase,19845,671,67,25,39,3.84,Monday,9,Oct,10
+2024-10-30,Instagram,Brand story,2910,159,14,4,27,6.08,Wednesday,15,Oct,10
+2024-10-30,TikTok,Influencer collab,34243,1299,145,90,143,4.48,Wednesday,20,Oct,10
+2024-10-30,Instagram,Influencer collab,11223,612,59,23,60,6.18,Wednesday,12,Oct,10
+2024-10-30,Instagram,Behind the scenes,25722,1211,111,62,86,5.38,Wednesday,10,Oct,10
+2024-10-30,Twitter,Behind the scenes,3727,231,24,15,25,7.24,Wednesday,17,Oct,10
+2024-10-31,TikTok,Brand story,41960,2256,194,159,155,6.22,Thursday,18,Oct,10
+2024-11-01,TikTok,Product showcase,31300,150,7,3,6,0.51,Friday,10,Nov,11
+2024-11-02,Instagram,Influencer collab,9340,510,46,16,66,6.12,Saturday,14,Nov,11
+2024-11-02,TikTok,Brand story,34936,2185,106,46,253,6.69,Saturday,10,Nov,11
+2024-11-03,Instagram,Campaign launch,13230,572,36,28,71,4.81,Sunday,8,Nov,11
+2024-11-03,TikTok,Influencer collab,12450,705,22,37,41,6.14,Sunday,11,Nov,11
+2024-11-04,Instagram,Campaign launch,14593,500,24,30,59,3.8,Monday,9,Nov,11
+2024-11-05,Instagram,Brand story,7569,148,10,2,18,2.11,Tuesday,17,Nov,11
+2024-11-05,TikTok,Influencer collab,49504,3246,280,67,254,7.26,Tuesday,12,Nov,11
+2024-11-06,TikTok,Brand story,16588,569,25,26,43,3.74,Wednesday,15,Nov,11
+2024-11-08,Twitter,Product showcase,3127,159,12,5,15,5.63,Friday,14,Nov,11
+2024-11-09,Instagram,Influencer collab,45840,2658,210,66,172,6.4,Saturday,8,Nov,11
+2024-11-09,TikTok,Influencer collab,29272,2277,185,50,165,8.58,Saturday,10,Nov,11
+2024-11-10,Instagram,Product showcase,6113,84,5,3,9,1.5,Sunday,12,Nov,11
+2024-11-11,Instagram,Campaign launch,8126,382,30,6,37,5.14,Monday,11,Nov,11
+2024-11-11,Instagram,Campaign launch,7962,481,36,26,41,6.82,Monday,12,Nov,11
+2024-11-12,Instagram,Behind the scenes,7577,427,13,22,18,6.1,Tuesday,16,Nov,11
+2024-11-13,TikTok,Campaign launch,47582,2024,163,106,154,4.82,Wednesday,14,Nov,11
+2024-11-13,Twitter,Product showcase,4317,128,11,5,17,3.34,Wednesday,11,Nov,11
+2024-11-13,Twitter,Influencer collab,4495,234,12,9,16,5.67,Wednesday,11,Nov,11
+2024-11-14,TikTok,Behind the scenes,35954,2700,226,127,159,8.49,Thursday,15,Nov,11
+2024-11-15,Twitter,Campaign launch,3317,227,10,4,34,7.27,Friday,13,Nov,11
+2024-11-16,Instagram,Product showcase,10497,447,32,11,43,4.67,Saturday,16,Nov,11
+2024-11-17,Twitter,Brand story,2083,109,9,6,11,5.95,Sunday,17,Nov,11
+2024-11-18,Twitter,Campaign launch,2093,104,7,4,8,5.49,Monday,12,Nov,11
+2024-11-18,TikTok,Brand story,27142,1068,92,46,92,4.44,Monday,15,Nov,11
+2024-11-19,Instagram,Behind the scenes,5761,365,14,11,15,6.77,Tuesday,13,Nov,11
+2024-11-20,Instagram,Campaign launch,7241,317,10,7,41,4.61,Wednesday,12,Nov,11
+2024-11-20,Instagram,Campaign launch,10589,338,12,6,23,3.36,Wednesday,19,Nov,11
+2024-11-20,TikTok,Influencer collab,53718,2524,166,132,234,5.25,Wednesday,10,Nov,11
+2024-11-21,Instagram,Brand story,5926,176,8,6,14,3.21,Thursday,15,Nov,11
+2024-11-21,Instagram,Brand story,5314,117,10,6,7,2.5,Thursday,9,Nov,11
+2024-11-22,TikTok,Campaign launch,41355,464,41,10,36,1.25,Friday,10,Nov,11
+2024-11-22,Twitter,Product showcase,2639,48,3,2,5,2.01,Friday,17,Nov,11
+2024-11-23,Twitter,Product showcase,7580,197,6,5,8,2.74,Saturday,10,Nov,11
+2024-11-24,Instagram,Behind the scenes,5496,283,11,7,39,5.48,Sunday,10,Nov,11
+2024-11-26,Instagram,Influencer collab,13023,724,59,31,50,6.25,Tuesday,11,Nov,11
+2024-11-26,Twitter,Behind the scenes,10376,637,21,26,69,6.59,Tuesday,16,Nov,11
+2024-12-01,Instagram,Brand story,16972,145,8,4,15,0.93,Sunday,9,Dec,12
+2024-12-03,Instagram,Behind the scenes,4701,141,10,4,7,3.3,Tuesday,14,Dec,12
+2024-12-03,TikTok,Behind the scenes,38259,2395,113,87,288,6.78,Tuesday,17,Dec,12
+2024-12-03,TikTok,Behind the scenes,74737,5580,199,121,707,7.89,Tuesday,8,Dec,12
+2024-12-05,Twitter,Brand story,6720,253,10,3,22,3.96,Thursday,12,Dec,12
+2024-12-05,Instagram,Behind the scenes,18060,1186,44,53,150,7.1,Thursday,18,Dec,12
+2024-12-05,Instagram,Brand story,4531,211,14,10,15,5.19,Thursday,10,Dec,12
+2024-12-06,Instagram,Brand story,3729,196,5,10,24,5.66,Friday,12,Dec,12
+2024-12-07,Twitter,Brand story,4458,223,8,7,11,5.34,Saturday,9,Dec,12
+2024-12-07,Twitter,Behind the scenes,8146,390,11,15,16,5.11,Saturday,8,Dec,12
+2024-12-07,Instagram,Product showcase,6615,132,9,3,11,2.18,Saturday,18,Dec,12
+2024-12-08,TikTok,Brand story,151639,7425,529,361,602,5.48,Sunday,12,Dec,12
+2024-12-09,Instagram,Behind the scenes,21808,1077,64,51,104,5.47,Monday,13,Dec,12
+2024-12-09,Twitter,Brand story,5464,286,20,10,36,5.78,Monday,11,Dec,12
+2024-12-10,TikTok,Brand story,59772,2394,121,123,255,4.41,Tuesday,13,Dec,12
+2024-12-10,Twitter,Product showcase,5625,73,3,1,8,1.37,Tuesday,13,Dec,12
+2024-12-11,Twitter,Influencer collab,5194,352,12,7,34,7.14,Wednesday,17,Dec,12
+2024-12-11,TikTok,Brand story,24823,955,66,41,57,4.28,Wednesday,9,Dec,12
+2024-12-11,Twitter,Brand story,5577,276,13,7,32,5.31,Wednesday,14,Dec,12
+2024-12-11,Instagram,Influencer collab,15927,663,51,28,72,4.66,Wednesday,11,Dec,12
+2024-12-11,TikTok,Behind the scenes,105384,3415,228,130,276,3.58,Wednesday,19,Dec,12
+2024-12-13,Instagram,Campaign launch,14337,579,44,27,33,4.53,Friday,9,Dec,12
+2024-12-14,Instagram,Brand story,11988,145,10,4,10,1.33,Saturday,13,Dec,12
+2024-12-14,Instagram,Product showcase,18511,252,8,12,16,1.47,Saturday,12,Dec,12
+2024-12-14,Instagram,Behind the scenes,27753,1426,42,47,177,5.46,Saturday,18,Dec,12
+2024-12-14,Twitter,Brand story,2853,75,2,1,6,2.73,Saturday,11,Dec,12
+2024-12-14,TikTok,Brand story,55110,1603,57,77,63,3.15,Saturday,15,Dec,12
+2024-12-15,Instagram,Influencer collab,14236,859,48,25,70,6.55,Sunday,18,Dec,12
+2024-12-16,Instagram,Behind the scenes,6099,472,29,22,55,8.58,Monday,17,Dec,12
+2024-12-17,Instagram,Behind the scenes,15108,982,47,48,99,7.13,Tuesday,15,Dec,12
+2024-12-17,TikTok,Influencer collab,49075,2881,107,49,267,6.19,Tuesday,9,Dec,12
+2024-12-19,Instagram,Influencer collab,47376,2812,80,137,340,6.39,Thursday,9,Dec,12
+2024-12-20,Twitter,Influencer collab,2976,171,9,3,12,6.15,Friday,9,Dec,12
+2024-12-20,TikTok,Brand story,74419,2382,146,64,85,3.48,Friday,11,Dec,12
+2024-12-22,Twitter,Brand story,4075,199,15,5,14,5.37,Sunday,9,Dec,12
+2024-12-24,Twitter,Campaign launch,8433,493,18,12,65,6.2,Tuesday,17,Dec,12
+2024-12-24,Instagram,Brand story,15070,921,57,12,93,6.57,Tuesday,11,Dec,12
+2024-12-25,Instagram,Influencer collab,8122,574,30,29,74,7.79,Wednesday,11,Dec,12
+2024-12-25,Instagram,Product showcase,5205,165,10,5,20,3.46,Wednesday,16,Dec,12
+2024-12-25,Instagram,Campaign launch,9925,588,36,27,59,6.56,Wednesday,13,Dec,12
+2024-12-25,Instagram,Behind the scenes,15267,669,20,21,24,4.65,Wednesday,14,Dec,12
+2024-12-25,Instagram,Campaign launch,10017,333,17,13,19,3.62,Wednesday,10,Dec,12
+2024-12-29,Instagram,Influencer collab,34948,2557,170,67,106,7.99,Sunday,10,Dec,12
+2024-12-30,Instagram,Product showcase,26398,943,28,25,90,3.77,Monday,18,Dec,12
+2024-12-30,TikTok,Behind the scenes,9568,618,42,32,45,7.23,Monday,10,Dec,12
