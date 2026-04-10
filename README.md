@@ -73,20 +73,21 @@ streamlit run app.py
 
 The dataset is generated synthetically on first run (`data/posts.csv`).
 
-## Project structure
+## 📂 Project Structure
 
 ```
 social-media-dashboard/
-├── app.py               # Main Streamlit dashboard
-├── data_generator.py    # Synthetic dataset (500 posts, 12 months)
-├── eda.py               # Analysis logic (KPIs, aggregations, insights)
-├── charts.py            # Plotly visualisations
+├── app.py # Main Streamlit dashboard
+├── data_generator.py # Synthetic dataset (500 posts, 12 months)
+├── eda.py # Analysis logic (KPIs, aggregations, insights)
+├── charts.py # Plotly visualisations
 ├── data/
-│   └── posts.csv        # Auto-generated dataset
+│ └── posts.csv # Auto-generated dataset
 ├── requirements.txt
 └── README.md
 ```
 
 
 ---
-Built by Manal Munawwar · [LinkedIn](https://www.linkedin.com/in/manal-munawwar-9122a8269/)
+Built by **Manal Munawwar**  
+🔗 [LinkedIn](https://www.linkedin.com/in/manal-munawwar-9122a8269/)
